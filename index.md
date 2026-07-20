@@ -1,11 +1,9 @@
 ---
-layout: home
-title: "About Me"
-author_profile: true
+layout: default
+title: About Me
 ---
 
-# Hi, I'M Nazanin Azhdari
 
-I study IT at VAMK.
+# hello
 
-### My Projects
+im naz

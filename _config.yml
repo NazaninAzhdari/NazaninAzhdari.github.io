@@ -1,10 +1,3 @@
-title: "Nazanin Azhdari"
-description: "FPGA & Embedded Systems Portfolio"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
-
-defaults:
-  - scope:
-      type: "portfolio"
-    values:
-      layout: "single"
+title: Nazanin Azhdari
+description: FPGA Junior Engineer Portfolio
+theme: jekyll-theme-cayman
