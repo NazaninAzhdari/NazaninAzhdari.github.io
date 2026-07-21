@@ -122,10 +122,13 @@ You can download a PDF copy of my resume [here]().
 
 </div>
 
-<!-- Third Row of Projects ( 3 Projects) -->
+<!-- Third Row of Projects ( 3 Projects ) -->
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
 
-  <!-- Project 7 -->
+  <!-- Invisible placeholder 1 -->
+  <div style="flex: 1; min-width: 250px; visibility: hidden;"></div>
+
+  <!-- Project 8-->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <img src="assets/pong_game.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
@@ -137,6 +140,9 @@ You can download a PDF copy of my resume [here]().
       <a href="https://youtu.be/uQnj32KqF_c" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
+
+  <!-- Invisible placeholder 2 -->
+  <div style="flex: 1; min-width: 250px; visibility: hidden;"></div>
 
 </div>
 
