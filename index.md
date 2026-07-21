@@ -138,32 +138,6 @@ You can download a PDF copy of my resume [here]().
     </div>
   </div>
 
-  <!-- Project 8 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <img src="assets/project1.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
-      <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Chrome Dino Game on FPGA</h3>
-      <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project contains a complete reconstruction of the famous "Chrome Dino" game, designed to run on FPGA using pure VHDL.</p>
-    </div>
-    <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/dino-game" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
-      <a href="https://youtu.be/uQnj32KqF_c" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
-    </div>
-  </div>
-
-  <!-- Project 9 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <img src="assets/project1.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
-      <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Simon's Memory Game on FPGA</h3>
-      <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This Project is a hardware version of the Simon memory‑testing game using VHDL on FPGA. The game shows a random sequence of lights and sounds, and the player must repeat the pattern correctly to advance.</p>
-    </div>
-    <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/simon-memory-game" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
-      <a href="https://youtu.be/uQnj32KqF_c" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
-    </div>
-  </div>
-
 </div>
 
 
