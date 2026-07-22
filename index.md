@@ -1,18 +1,6 @@
 ---
 layout: default
 ---
-<p align="right" style="margin-top: 0;">
-  <a href="https://github.com/NazaninAzhdari/i2s-audio-engine" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         alt="GitHub Repo"
-         width="32"
-         height="32"
-         style="vertical-align: middle;">
-    <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
-      View the code on GitHub
-    </span>
-  </a>
-</p>
 
 <div align="center">
   <img src="assets/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
@@ -29,14 +17,19 @@ layout: default
 ---
 
 ## About Me
+My name is Nazanin Azhdari, and I am a second‑year IT Engineering student at Vaasa University of Applied Sciences, specializing in Embedded Systems. I have experience in C and C++ programming, VHDL for hardware design, Git version control, and LTSpice circuit simulation.  
+I enjoy working with hardware, circuits, FPGAs, and microcontrollers. I have built several FPGA projects, including image processing, color tracking, audio engines, and hardware‑based games. I like creating systems that run fully in hardware and produce real, visible results. You can explore some of my projects on this page to see what I have been working on.  
+I also have a YouTube channel where I upload videos about my projects. If you are interested, you can take a look at my channel:  
+*   **Youtube:** [Fun-PGA](https://youtube.com/@Fun-PGA)  
 
-My name is **Nazanin Azhdari**, and I am currently a second‑year student studying **IT Engineering** at **Vaasa University of Applied Sciences**, with a specialization in **Embedded Systems**.  
-I love working with **circuits**, **FPGAs**, **Microcontrollers**, **Hardware**, and more. Take a look at some of my projects on this page to see what I've been up to.   
-I also have a YouTube channel where I upload videos about my projects. If you want, you can take a look at my channel:
-  *   **Youtube:** [Fun-PGA](https://youtube.com/@Fun-PGA)  
+To be honest, hardware is not only my major, it is my life! This YouTube channel is my cozy corner on the internet where I share my projects and show people that hardware is not just dry datasheets. It can be pure fun. :D  
 
-My skills include **C/C++**, **VHDL**, **Quartus II**, **Xilinx ISE/Vivado**, **ISim**, **Git**, and **LTspice**.  
-You can download a PDF copy of my resume [here]().  
+You can have a look at some of my profiles:
+*   [**GitHub**](https://github.com/NazaninAzhdari)  
+*   [**LinkedIn**](https://www.linkedin.com/in/Nazanin-Azhdari-49b315341) 
+
+Or download a PDF copy of my resume [here](https://drive.google.com/uc?export=download&id=1fKDRVvRS5yt-j81oioO-MJpV7ITc-6eA).
+
 
 ---
 
@@ -56,7 +49,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">I Built a real‑time image processing system on an FPGA that applies multiple visual effects and outputs the result to an HDMI display. I Implemented effects such as brightness, contrast, grayscale, mirror, pixelize, color tint, solarize, fire, rainbow and more. All effects are written in VHDL.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://nazaninazhdari.github.io/projects/hdmi_img_processing" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/hdmi-img-processing/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/r3zzLkPPhf4" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
@@ -69,7 +62,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project is a hardware system in VHDL that tracks moving objects based on their color. The system detects 12 color shades, draws a bounding box around the selected color, and displays the object’s X/Y coordinates in real time.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/real-time-color-tracker" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/real-time-color-tracker/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/elqPHcDn72I" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
@@ -101,7 +94,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project is an implementation of the classic arcade game “Space Invaders.” Everything is synchronized to 640×480 VGA timing at 60 Hz. The game includes an I2S‑based audio engine for sound and a UART‑RX interface for communicating with the game.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/space-invaders-game" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/space-invaders-game/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/WcMMTcasyy4" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
@@ -114,7 +107,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project contains a reconstruction of the famous "Chrome Dino" game, designed to run on FPGA using pure VHDL.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/dino-game" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/dino-game/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/xPbkNaEA4XQ" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
@@ -127,7 +120,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This Project is a hardware version of the Simon memory‑testing game using VHDL on FPGA. The game shows a random sequence of lights and sounds, and the player must repeat the pattern correctly to succeed.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/simon-memory-game" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/simon-memory-game/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/fHvrJTfiq0w" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
@@ -148,7 +141,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project is an implementation of iconic Pong game entirely in hardware. This was my first Project with FPGAs. =))</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/pong-game" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/pong-game/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/uQnj32KqF_c" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
