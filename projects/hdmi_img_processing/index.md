@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 
 This design shows how we can read an image from BRAM, apply visual effects in real time, and drive a display over HDMI using an FPGA.  
