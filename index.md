@@ -56,7 +56,7 @@ You can download a PDF copy of my resume [here]().
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">I Built a real‑time image processing system on an FPGA that applies multiple visual effects and outputs the result to an HDMI display. I Implemented effects such as brightness, contrast, grayscale, mirror, pixelize, color tint, solarize, fire, rainbow and more. All effects are written in VHDL.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/hdmi-img-processing" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/projects/hdmi_img_processing" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/r3zzLkPPhf4" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
