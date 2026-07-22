@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+<p align="right" style="margin-top: 0;">
+  <a href="https://github.com/NazaninAzhdari/i2s-audio-engine" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub Repo"
+         width="32"
+         height="32"
+         style="vertical-align: middle;">
+    <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;">
+      View the code on GitHub
+    </span>
+  </a>
+</p>
 
 <div align="center">
   <img src="assets/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
@@ -39,7 +51,7 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 1 -->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/img_processing.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/r3zzLkPPhf4/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Image Processing on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">I Built a real‑time image processing system on an FPGA that applies multiple visual effects and outputs the result to an HDMI display. I Implemented effects such as brightness, contrast, grayscale, mirror, pixelize, color tint, solarize, fire, rainbow and more. All effects are written in VHDL.</p>
     </div>
@@ -52,7 +64,7 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 2 -->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/color_tracker.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/elqPHcDn72I/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Real-Time Color Tracker on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project is a hardware system in VHDL that tracks moving objects based on their color. The system detects 12 color shades, draws a bounding box around the selected color, and displays the object’s X/Y coordinates in real time.</p>
     </div>
@@ -65,12 +77,12 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 3 -->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/audio_engine.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/alMRRR7Sw7M/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Audio Engine on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This Project is an Audio Engine on FPGA that receives ASCII characters over UART and turns them into musical melodies. The system generates 28 unique square‑wave melodies (such as sirens, retro game tones, toy sounds, and more), and transmits 24‑bit audio samples through a fully custom I2S interface.</p>
     </div>
     <div style="margin-top: auto;">
-      <a href="https://github.com/NazaninAzhdari/i2s-audio-engine" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
+      <a href="https://nazaninazhdari.github.io/i2s-audio-engine/" style="display: inline-block; padding: 5px 10px; background: #f1f8ff; color: #0366d6; border: 1px solid #c8e1ff; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-right: 5px; margin-bottom: 5px;">View Project →</a>
       <a href="https://youtu.be/alMRRR7Sw7M" target="_blank" style="display: inline-block; padding: 5px 10px; background: #e6ffed; color: #28a745; border: 1px solid #acf2bd; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: 600; margin-bottom: 5px;">Watch Demo ▶️</a>
     </div>
   </div>
@@ -84,7 +96,7 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 4 -->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/space_invaders.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/WcMMTcasyy4/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Space Invaders Game on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project is an implementation of the classic arcade game “Space Invaders.” Everything is synchronized to 640×480 VGA timing at 60 Hz. The game includes an I2S‑based audio engine for sound and a UART‑RX interface for communicating with the game.</p>
     </div>
@@ -97,7 +109,7 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 5 -->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/dino_game.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/xPbkNaEA4XQ/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Chrome Dino Game on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project contains a reconstruction of the famous "Chrome Dino" game, designed to run on FPGA using pure VHDL.</p>
     </div>
@@ -110,7 +122,7 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 6 -->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/memory_game.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/fHvrJTfiq0w/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Simon's Memory Game on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This Project is a hardware version of the Simon memory‑testing game using VHDL on FPGA. The game shows a random sequence of lights and sounds, and the player must repeat the pattern correctly to succeed.</p>
     </div>
@@ -131,7 +143,7 @@ You can download a PDF copy of my resume [here]().
   <!-- Project 8-->
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; background: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <img src="assets/pong_game.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+      <img src="https://img.youtube.com/vi/uQnj32KqF_c/maxresdefault.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       <h3 style="margin: 10px 0 6px 0; font-size: 1.1rem;">Pong Game on FPGA</h3>
       <p style="color: #586069; font-size: 0.9rem; margin-bottom: 15px;">This project is an implementation of iconic Pong game entirely in hardware. This was my first Project with FPGAs. =))</p>
     </div>
