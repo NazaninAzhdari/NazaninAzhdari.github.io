@@ -4,6 +4,7 @@ title: My Website
 ---
 
 <link rel="icon" href="/favicon.ico">
+<img src="assets/banner1920x400.png" alt="Fun-PGA Banner" style="width:100%; height:auto; display:block; object-fit:cover; margin-bottom:20px;">
 
 
 <div align="center">
