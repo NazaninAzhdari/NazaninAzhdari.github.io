@@ -3,7 +3,8 @@ layout: default
 title: My Website
 ---
 
-<link rel="icon" type="image/png" href="assets/Fun_PGA_logo.png">
+<link rel="icon" href="/favicon.ico">
+
 
 <div align="center">
   <img src="assets/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
@@ -21,7 +22,7 @@ title: My Website
 
 ## About Me
 My name is Nazanin Azhdari, and I am a second‑year IT Engineering student at Vaasa University of Applied Sciences, specializing in Embedded Systems. I have experience in C and C++ programming, VHDL for hardware design, Git version control, and LTSpice circuit simulation.  
-I enjoy working with hardware, circuits, FPGAs, and microcontrollers. I like creating systems that run fully in hardware and produce real, visible results. You can explore some of my [**projects**](https://nazaninazhdari.github.io/#My-Projects) on this page to see what I have been working on.
+I enjoy working with hardware, circuits, FPGAs, and microcontrollers. I like creating systems that run fully in hardware and produce real, visible results. You can explore some of my [**Projects**](https://nazaninazhdari.github.io/#my-projects) on this page to see what I have been working on.  
 I also have a YouTube channel where I upload videos about my projects. If you are interested, you can take a look at my channel:  
 *   **Youtube:** [**Fun-PGA**](https://youtube.com/@Fun-PGA)  
 
