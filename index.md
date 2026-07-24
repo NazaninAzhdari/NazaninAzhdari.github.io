@@ -1,10 +1,9 @@
 ---
 layout: default
-title: My Website
+title: Nazanin Azhdari
 ---
 
 <link rel="icon" href="/favicon.ico">
-<img src="assets/banner1920x400.png" alt="Fun-PGA Banner" style="width:100%; height:auto; display:block; object-fit:cover; margin-bottom:20px;">
 
 
 <div align="center">
@@ -29,11 +28,7 @@ I also have a YouTube channel where I upload videos about my projects. If you ar
 
 To be honest, hardware is not only my major, it is my hobby as well! This YouTube channel is my cozy corner on the internet where I share my projects and show people that hardware is not just dry datasheets. It can be pure fun. :D  
 
-You can have a look at some of my profiles:
-*   [**GitHub**](https://github.com/NazaninAzhdari)  
-*   [**LinkedIn**](https://www.linkedin.com/in/Nazanin-Azhdari-49b315341) 
-
-Or download a PDF copy of my resume [**here**](https://drive.google.com/uc?export=download&id=1fKDRVvRS5yt-j81oioO-MJpV7ITc-6eA).
+You can download a PDF copy of my resume [**here**](https://drive.google.com/uc?export=download&id=1fKDRVvRS5yt-j81oioO-MJpV7ITc-6eA).
 
 
 ---
