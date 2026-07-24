@@ -1,6 +1,9 @@
 ---
 layout: default
+title: My Website
 ---
+
+<link rel="icon" type="image/png" href="assets/Fun_PGA_logo.png">
 
 <div align="center">
   <img src="assets/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
@@ -18,24 +21,24 @@ layout: default
 
 ## About Me
 My name is Nazanin Azhdari, and I am a second‑year IT Engineering student at Vaasa University of Applied Sciences, specializing in Embedded Systems. I have experience in C and C++ programming, VHDL for hardware design, Git version control, and LTSpice circuit simulation.  
-I enjoy working with hardware, circuits, FPGAs, and microcontrollers. I have built several FPGA projects, including image processing, color tracking, audio engines, and hardware‑based games. I like creating systems that run fully in hardware and produce real, visible results. You can explore some of my projects on this page to see what I have been working on.  
+I enjoy working with hardware, circuits, FPGAs, and microcontrollers. I like creating systems that run fully in hardware and produce real, visible results. You can explore some of my [**projects**](https://nazaninazhdari.github.io/#My-Projects) on this page to see what I have been working on.
 I also have a YouTube channel where I upload videos about my projects. If you are interested, you can take a look at my channel:  
-*   **Youtube:** [Fun-PGA](https://youtube.com/@Fun-PGA)  
+*   **Youtube:** [**Fun-PGA**](https://youtube.com/@Fun-PGA)  
 
-To be honest, hardware is not only my major, it is my life! This YouTube channel is my cozy corner on the internet where I share my projects and show people that hardware is not just dry datasheets. It can be pure fun. :D  
+To be honest, hardware is not only my major, it is my hobby as well! This YouTube channel is my cozy corner on the internet where I share my projects and show people that hardware is not just dry datasheets. It can be pure fun. :D  
 
 You can have a look at some of my profiles:
 *   [**GitHub**](https://github.com/NazaninAzhdari)  
 *   [**LinkedIn**](https://www.linkedin.com/in/Nazanin-Azhdari-49b315341) 
 
-Or download a PDF copy of my resume [here](https://drive.google.com/uc?export=download&id=1fKDRVvRS5yt-j81oioO-MJpV7ITc-6eA).
+Or download a PDF copy of my resume [**here**](https://drive.google.com/uc?export=download&id=1fKDRVvRS5yt-j81oioO-MJpV7ITc-6eA).
 
 
 ---
 
 
 <div align="center">
-  <h1>My Projects</h1>
+  <h2>My Projects</h2>
 </div>
 
 <!-- First Row of Projects( 3 Projects) -->
